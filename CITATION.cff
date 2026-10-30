@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below. The underlying survey data belong to the National Institute of Statistics, Cambodia, and are not included."
+title: "Cambodia Rice Yield Forecasting: notebooks and documentation from NIS internship research"
+type: software
+authors:
+  - family-names: Chantha
+    given-names: Thy
+version: 0.1.0
+date-released: 2026-10-31
+license: MIT
+abstract: >-
+  Notebooks (outputs removed), recorded model-performance results and a validity review for parcel-level
+  rice yield and production prediction from Cambodia Agriculture Survey 2024 data. The survey data are
+  confidential and not included.
+keywords:
+  - agricultural statistics
+  - rice yield
+  - machine learning
+  - Cambodia

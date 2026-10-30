@@ -1,0 +1,23 @@
+# Data and derived tables: NEVER commit (confidential survey data)
+data/*
+!data/README.md
+*.csv
+*.dta
+*.xlsx
+*.xls
+*.sav
+*.parquet
+*.feather
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.html
+*.zip
+
+# notebook state and environments
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.pytest_cache/
+.env

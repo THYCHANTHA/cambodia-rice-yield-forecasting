@@ -1,0 +1,16 @@
+# Libraries imported by the notebooks. The versions used during the NIS internship were NOT recorded, so
+# none are pinned here and the notebooks have not been re-run with these libraries. Pin them yourself
+# once you can run the notebooks against data you are permitted to use.
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+matplotlib
+seaborn
+plotly
+folium
+# imported by notebook 04 but never used:
+optuna
+# repository checks
+pytest
